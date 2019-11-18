@@ -11,7 +11,7 @@ otro elemento más de la lista
 1. otro item de la lista numerada
 1. otro item más
 
-texto en ** negrita**
+texto en **negrita**
 tento en *cursiva*
 texto ~~tachado~~
 
